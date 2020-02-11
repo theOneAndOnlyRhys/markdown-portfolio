@@ -1,1 +1,1 @@
-[a website][https://codingbat.com/java]
+[a website](https://codingbat.com/java)
